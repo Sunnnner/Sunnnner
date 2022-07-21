@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ![Sunnnner's github stats](https://github-readme-stats.vercel.app/api?username=Sunnnner&theme=highcontrast "![Sunnnner's github stats")
 
-<img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
 - 🔭 I’m currently working on Python Go Rust Javascript Typescript 
 - 🌱 I’m currently learning Backend
